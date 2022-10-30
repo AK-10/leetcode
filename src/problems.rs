@@ -11,3 +11,4 @@ pub mod q0387_first_unique_character_in_a_string;
 pub mod q0104_maximum_depth_of_binary_tree;
 pub mod q0111_minimum_depth_of_binary_tree;
 pub mod q0617_merge_two_binary_trees;
+pub mod q0108_convert_sorted_array_to_binary_search_tree;
