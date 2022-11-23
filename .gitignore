@@ -1,3 +1,4 @@
-*/**/target
+first/target/*
+second/target/*
 */**/a.out
 
