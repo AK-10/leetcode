@@ -2,6 +2,7 @@ pub mod q0001_two_sum;
 pub mod q0002_add_two_numbers;
 pub mod q0003_longest_subustring_without_repeating_characters;
 pub mod q0020_valid_parentheses;
+pub mod q0035_search_insert_position;
 pub mod q0083_remove_duplicates_from_sorted_list;
 pub mod q0104_maximum_depth_of_binary_tree;
 pub mod q0108_convert_sorted_array_to_binary_search_tree;
