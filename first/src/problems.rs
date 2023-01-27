@@ -10,6 +10,7 @@ pub mod q0111_minimum_depth_of_binary_tree;
 pub mod q0112_path_sum;
 pub mod q0121_best_time_to_by_and_sell_stock;
 pub mod q0206_reverse_linked_list;
+pub mod q0283_move_zeros;
 pub mod q0300_longest_increasing_subsequence;
 pub mod q0349_intersection_of_two_arrays;
 pub mod q0387_first_unique_character_in_a_string;
